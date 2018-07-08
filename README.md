@@ -3,7 +3,7 @@
     <img src="vui-logo.png" width="180px" />
   </a>
 
-  <h3 align="center">Vui</h3>
+  <h1 align="center">Vui</h1>
 
   <p align="center">
     A lightweight component library for Vue2 Single Page Applications
