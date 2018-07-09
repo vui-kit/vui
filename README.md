@@ -7,6 +7,8 @@
 
   <p align="center">
     A lightweight component library for Vue2 Single Page Applications
+    <br>
+    <a href="https://www.patreon.com/joe_lomoglio">Become a patron.</a>
   </p>
 </p>
 
