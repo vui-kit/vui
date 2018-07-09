@@ -14,6 +14,10 @@
 
 <br>
 
+## Documentation
+
+Vui's documentation is located at <https://www.vui-kit.com/>.
+
 
 
 ## What's included
@@ -116,6 +120,4 @@ vui/
 └── vui.js
 ```
 
-## Documentation
 
-Vui's documentation is located at <https://www.vui-kit.com/>.
