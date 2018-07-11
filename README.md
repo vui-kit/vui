@@ -18,9 +18,9 @@
 
 ## Features
 - Large set of Vue Components
-- Vui Studio
-- Custom Style Generator
-- Themes and Layout Templates
+- Vui Studio (2019)
+- Custom Style Generator (2019)
+- Themes and Layout Templates (2019)
 
 ## Patreons
 Become a pateron and get your logo on this README on Github and every page of https://www.vui-kit.com website with a link to your site. [<a href="https://www.patreon.com/joe_lomoglio">Become a patron.</a>]
