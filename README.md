@@ -18,9 +18,15 @@
 
 ## Features
 - Large set of Vue Components
-- Vui Studio (2019)
-- Custom Style Generator (2019)
-- Themes and Layout Templates (2019)
+- 16 New Components (October 2018)
+- Themes and Layout Templates (December 2018)
+- NPM Packages (December 2018)
+- 6 New Widgets (Spring 2019)
+- Emit support for VSCode & Atom (Spring 2019)
+- Support for Fontawesome 4 & 5 icons (Spring 2019)
+- Custom Style Generator (Spring 2019)
+- Vui Studio (Summer 2019)
+
 
 ## Patreons
 Become a pateron and get your logo on this README on Github and every page of https://www.vui-kit.com website with a link to your site. [<a href="https://www.patreon.com/joe_lomoglio">Become a patron.</a>]
