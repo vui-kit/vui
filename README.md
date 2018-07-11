@@ -24,10 +24,3 @@
 
 ## Patreons
 Become a pateron and get your logo on this README on Github and every page of https://www.vui-kit.com website with a link to your site. [<a href="https://www.patreon.com/joe_lomoglio">Become a patron.</a>]
-
-
-## Roadmap
-
-<a href="https://www.vui-kit.com/docs/getting-started/roadmap" target="_blank">
-   A list of all the upcoming new features, tools and components.
-</a>
