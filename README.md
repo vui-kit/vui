@@ -34,4 +34,4 @@
 
 
 ## Patreons
-Become a pateron and get your logo on this README on Github and every page of Offical Vui-Kit website with a link to your site. [<a href="https://www.patreon.com/joe_lomoglio">Become a patron.</a>]
+Become a pateron and get your logo on this README on Github and every page of the Offical Vui-Kit website with a link to your site. [<a href="https://www.patreon.com/joe_lomoglio">Become a patron.</a>]
