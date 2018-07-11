@@ -29,5 +29,5 @@ Become a pateron and get your logo on this README on Github and every page of ht
 ## Roadmap
 
 <a href="https://www.vui-kit.com/docs/getting-started/roadmap" target="_blank">
-   www.vui-kit.com/docs/getting-started/roadmap
+   A list of all the upcoming new features, tools and components.
 </a>
