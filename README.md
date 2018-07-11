@@ -17,7 +17,11 @@
 <https://www.vui-kit.com/>
 
 ## Features
-- Large set of Vue Components
+- Large set of easy to use Vue Components.
+- Download and add to any new or existing project.
+- Detailed documentaion.
+
+## Roadmap
 - 16 New Components (October 2018)
 - Themes and Layout Templates (December 2018)
 - NPM Packages (December 2018)
@@ -28,5 +32,6 @@
 - Vui Studio (Summer 2019)
 
 
+
 ## Patreons
-Become a pateron and get your logo on this README on Github and every page of https://www.vui-kit.com website with a link to your site. [<a href="https://www.patreon.com/joe_lomoglio">Become a patron.</a>]
+Become a pateron and get your logo on this README on Github and every page of Offical Vui-Kit website with a link to your site. [<a href="https://www.patreon.com/joe_lomoglio">Become a patron.</a>]
