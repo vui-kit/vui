@@ -41,4 +41,4 @@ template code to add to your Vue project. Similar to Bootstrap Studio.
 
 ## Patreons
 In order for me to dedicate time to design and develop these projects, I need to be able to support myself and pay the bills, so if you like the work I am doing and want to see more great projects added to the Vui Kit show your support and
-become a pateron. You will get logo on this README page and also on every page of the Offical Vui-Kit website with a link to your site. [<a href="https://www.patreon.com/joe_lomoglio">Become a patron.</a>]
+become a pateron. You will get your logo or photo on this README page and also on every page of the Offical Vui-Kit website with a link to your site. [<a href="https://www.patreon.com/joe_lomoglio">Become a patron.</a>]
