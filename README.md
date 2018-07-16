@@ -22,7 +22,8 @@
 - Detailed documentaion.
 
 ## Roadmap
-- 16 New Components (October 2018)
+- 46 New Components (October 2018)
+- Vui Admin (Laravel) (September 2018)
 - Themes and Layout Templates (December 2018)
 - NPM Packages (December 2018)
 - 6 New Widgets (Spring 2019)
@@ -31,7 +32,13 @@
 - Custom Style Generator (Spring 2019)
 - Vui Studio (Summer 2019)
 
+### Vui Admin
+Unlike most themes that only provide a static UI, Vui Admin is a quick start application that provides a functional layout with many working features and a richer set of Vui componets designed especially for Admin projects. Just drop the package into your Laravel "resources/assests/js" folder and replace the default Welcome.blade.php file and your ready to start developing. 
 
+### Vui Studio
+Design and prototype your project interfaces using this drag and drop editor. Once you have a design, you can then generate
+template code to add to your Vue project. Similar to Bootstrap Studio.
 
 ## Patreons
-Become a pateron and get your logo on this README on Github and every page of the Offical Vui-Kit website with a link to your site. [<a href="https://www.patreon.com/joe_lomoglio">Become a patron.</a>]
+In order for me to dedicate time to design and develop these projects, I need to be able to support myself and pay the bills, so if you like the work I am doing and want to see more great projects added to the Vui Kit show your support and
+become a pateron. You will get logo on this README page and also on every page of the Offical Vui-Kit website with a link to your site. [<a href="https://www.patreon.com/joe_lomoglio">Become a patron.</a>]
