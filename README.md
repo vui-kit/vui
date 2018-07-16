@@ -33,7 +33,7 @@
 - Vui Studio (Summer 2019)
 
 ### Vui Admin
-Unlike most themes that only provide a static UI, Vui Admin is a quick start application that provides a functional layout with many working features and a richer set of Vui componets designed especially for Admin projects. Just drop the package into your Laravel "resources/assests/js" folder and replace the default Welcome.blade.php file and your ready to start developing. 
+Unlike most themes that only provide a static UI, Vui Admin is a quick start application that provides a functional layout with many working features and a richer set of Vui components designed especially for Admin projects. Just drop the package into your Laravel "resources/assets/js" folder and replace the default Welcome.blade.php file and your ready to start developing.
 
 ### Vui Studio
 Design and prototype your project interfaces using this drag and drop editor. Once you have a design, you can then generate
