@@ -22,14 +22,14 @@
 - Detailed documentaion.
 
 ## Roadmap
-- 46 New Components (October 2018)
+- 100 New Components (October 2018)
 - Vui Admin (Laravel) (September 2018)
+- Emmet support for VSCode & Atom (December 2018)
 - Themes and Layout Templates (December 2018)
 - NPM Packages (December 2018)
-- 6 New Widgets (Spring 2019)
-- Emmet support for VSCode & Atom (Spring 2019)
+- 50 New Widgets (Spring 2019)
 - Support for Fontawesome 4 & 5 icons (Spring 2019)
-- Custom Style Generator (Spring 2019)
+- Roll Your Own Theme Generator (Spring 2019)
 - Vui Studio (Summer 2019)
 
 ### Vui Admin
