@@ -22,18 +22,14 @@
 - Detailed documentaion.
 
 ## Roadmap
-- 100 New Components (October 2018)
-- Vui Admin (Laravel) (September 2018)
-- Emmet support for VSCode & Atom (December 2018)
-- Themes and Layout Templates (December 2018)
-- NPM Packages (December 2018)
-- 50 New Widgets (Spring 2019)
+- 20 New Components (Spring 2019)
+- Vui Admin (Python Flask) (Spring 2019)
+- Emmet support for VSCode & Atom (Spring 2019)
 - Support for Fontawesome 4 & 5 icons (Spring 2019)
-- Roll Your Own Theme Generator (Spring 2019)
-- Vui Studio (Summer 2019)
+- Vui Studio (Quasar/Electron App) (Summer 2019)
 
 ### Vui Admin
-Unlike most themes that only provide a static UI, Vui Admin is a quick start application that provides a functional layout with many working features and a richer set of Vui components designed especially for Admin projects. Just drop the package into your Laravel "resources/assets/js" folder and replace the default Welcome.blade.php file and your ready to start developing.
+Unlike most themes that only provide a static UI, Vui Admin is a quick start application that provides a functional layout with many working features and a richer set of Vui components designed especially for Admin projects. Just drop the package into your Python Flask project folder and your ready to start developing.
 
 ### Vui Studio
 Design and prototype your project interfaces using this drag and drop editor. Once you have a design, you can then generate
